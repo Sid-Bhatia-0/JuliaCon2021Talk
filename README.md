@@ -45,11 +45,11 @@ I recommend checking out the latest version. But nevertheless, here is a link to
 
 ### Ray-Caster Example
 
-The ray casting examlpe is from the `RayCastWorlds` package. It uses another package called `RayCaster` for the core ray-casting algorithm:
+The ray casting example is from the `RayCastWorlds` package (unregistered as of this writing). It uses another package called `RayCaster` for the core ray-casting algorithm:
 
 [https://github.com/Sid-Bhatia-0/RayCaster.jl](https://github.com/Sid-Bhatia-0/RayCaster.jl)
 
-As of this writing, `RayCastWorlds` is not a registered package. Here is a link to the commit from the `RayCastWorlds` package that was used in this talk:
+Here is a link to the commit from the `RayCastWorlds` package that was used in this talk. Unfortunately, it is not documented and pretty messy at this point:
 
 [https://github.com/Sid-Bhatia-0/RayCastWorlds.jl/tree/6b8bffa2e4bc129a762cff8551491e39eb0ee87c](https://github.com/Sid-Bhatia-0/RayCastWorlds.jl/tree/6b8bffa2e4bc129a762cff8551491e39eb0ee87c)
 
